@@ -8,7 +8,7 @@ Please provide at least one sentence on your background and one sentence on your
 > passion with you teaching this course. 
 
 
-Follow instructions in [initial tasks](https://github.com/fdac16/students/src/master/Preliminary.md)
+Follow instructions in [initial tasks](https://github.com/fdac16/students/blob/master/Preliminary.md)
 
 
 Information on forming teams
