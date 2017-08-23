@@ -1,0 +1,1 @@
+My name is William Lifferth and I'm a Senior in the College Schoalrs program at UT studying Machine Learning and the Ethics of Autonomous Systems. I'm the president of VolHacks and the UTKML organizations and I also own a small web design firm. I just finished a data scinece internship in Seattle and psyched to be back in Knoxville.
