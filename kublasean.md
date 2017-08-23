@@ -1,0 +1,1 @@
+My name is Sean Whalen. I'm an undergrad CS major graduating this December, after which I will pursue a master's degree in CS. My main interest outside of computers is music, come see my band High Heat play in Knoxville. 
