@@ -1,0 +1,1 @@
+I am Jacob Miller, and I am a graduate student in the EECS department. I have a background in mathematics, earning an MMS degree from the Ohio State University. Now I am here at the University of Tennessee to further my background in computer science.
