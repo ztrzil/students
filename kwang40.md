@@ -1,0 +1,1 @@
+Hello,this is Kaixiang Wang. I have a Bachelor degree in computer science. I am working on a Master degree at this point. Glad to have this class to help me build more knowledge.
