@@ -1,0 +1,1 @@
+Hello, my name is Brian Friend and I am a  major.  I am currently a junior and would like to go further into AI. After I get that great looking BS I plan on furthering my education with a Masters in either CS or CE. 

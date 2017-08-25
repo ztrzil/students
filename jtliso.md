@@ -1,0 +1,1 @@
+I am J.T. Liso, a senior in Computer Science graduating in December. I worked this past summer at Cisco, and have previous experience working at ORNL. My interests are in machine learning and cybersecurity.
