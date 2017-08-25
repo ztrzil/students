@@ -1,0 +1,1 @@
+My name is John Hendershott, and I am a Junior in Computer Engineering.  I enjoy coding with hardware integration, and I am interested in learning more about embedded systems.  I have worked as in intern at the Oak Ridge National Laboratory for about 3 years as part of the Sensors and Embedded Systems and the Imaging Systems and Machine Learning groups.

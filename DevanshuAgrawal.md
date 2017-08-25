@@ -1,0 +1,1 @@
+My name is Devanshu Agrawal, and I am a doctoral student in data science and engineering. I have a background in mathematics and physics, but I am currently interested in deep learning. In particular, I want to understand hidden representations in deep neural networks, especially in the context of natural language processing applications.
