@@ -1,1 +1,2 @@
-My name is Taylor Richardson and I'm  senior CS major. 
+
+My name is Taylor Richardson, and I'm a senior in Computer Science.
